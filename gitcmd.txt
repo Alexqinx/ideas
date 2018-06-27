@@ -1,0 +1,7 @@
+10 mins master git commands.
+1. the admin command about user and access.
+2. the status command
+3. the file and directory check in check out.
+4. the branch generate and check out.
+5. 
+
